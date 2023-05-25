@@ -1,0 +1,2 @@
+<h1 style="font-weight: bold">Hello there!<img src='hello-yellow.gif' height="40px"/> I'm Salem</h1>
+<p>Highly motivated and detail-oriented ex-civil engineer a passion for frontend development. Skilled in HTML, CSS JavaScript and React, Experience with responsive design and cross-browser compatibility. Seeking a challenging role as a Frontend Developer to leverage my technical skills and passion for web development.</p>
